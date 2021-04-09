@@ -15,4 +15,4 @@ Languages that i'm working/learning with:
 - 🔭 I’m currently working on freelance projects
 - 💬 Ask me about what you want to
 
-- My Contact: <b>! vRP.droyen#1563</b>
+- 🌀 My Contact: <b>! vRP.droyen#1563</b>
