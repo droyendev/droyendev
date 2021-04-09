@@ -23,4 +23,4 @@ Languages and stuffs that i'm working/learning with:
 
 #
 
-<img src="https://cdn.discordapp.com/attachments/829476971192778835/830213393373331496/mygithub.png" width="1800vw" height="100vh">
+<img src="https://cdn.discordapp.com/attachments/829476971192778835/830215380097695784/mygithub.png" width="1800vw" height="100vh">
