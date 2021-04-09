@@ -14,4 +14,3 @@ Languages that i'm working/learning with:
 -->
 
 - São Paulo, Brazil
-- <link>discord.gg/lil</link>
