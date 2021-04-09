@@ -2,9 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on freelance projects
-- 🌱 I’m currently learning a lot about JavaScript
-- 💬 Ask me about what you want to
+My name is <b>Gabriel</b>, I always liked to program, study and work with it, nowadays, I do <b>Front-end</b> and <b>Back-end</b> projects, more focused on <b>FiveM</b>
 
 Languages that i'm working/learning with:
 
@@ -14,3 +12,5 @@ Languages that i'm working/learning with:
 -->
 
 - São Paulo, Brazil
+- 🔭 I’m currently working on freelance projects
+- 💬 Ask me about what you want to
