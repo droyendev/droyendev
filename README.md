@@ -7,7 +7,7 @@ My name is <b>Gabriel</b>, I always liked to program, study and work with it, no
 
 Languages that i'm working/learning with:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">   <img src="https://img1.gratispng.com/20180816/ql/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f6479ca3.8709748315344660382933.jpg" width="25vw" height="25vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">   <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="25vw" height="25vh">
 
 #
 
