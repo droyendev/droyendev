@@ -22,3 +22,5 @@ Languages and stuffs that i'm working/learning with:
 [Alabama](https://discord.gg/CBU4ZyD5) 
 
 #
+
+<img src="https://cdn.discordapp.com/attachments/829476971192778835/830212406495281172/mygithub.png" width="1800vw" height="100vh">
