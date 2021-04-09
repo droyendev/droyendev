@@ -10,8 +10,8 @@ Languages that i'm working/learning with:
 <!--
 <img src="" width="700vw" height="350vh">
 -->
-
 #
+
 
 - 📍 São Paulo, Brazil
 - 🔭 I’m currently working on freelance projects
