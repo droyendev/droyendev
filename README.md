@@ -16,3 +16,6 @@ Languages that i'm working/learning with:
 - 💬 Ask me about what you want to
 
 - 🌀 My Contact: <b>! vRP.droyen#1563</b>
+
+- 📰 Working in:
+[Discord](https://discord.gg/CBU4ZyD5) 
