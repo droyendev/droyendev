@@ -8,7 +8,7 @@ My name is <b>Gabriel</b>, I always liked to program, study and work with it, no
 Languages that i'm working/learning with:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="20vw" height="25vh">
 #
 
 - 📍 São Paulo, Brazil
