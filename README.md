@@ -23,4 +23,10 @@ Languages and stuffs that i'm working/learning with:
 
 #
 
+<img src="https://cdn.discordapp.com/attachments/829476971192778835/830216180034961418/SCRIPTS_FINALIzados.png" width="1800vw" height="100vh">
+
+- 🌮 Taco Farmer [ Work 100% ]
+
+#
+
 <img src="https://cdn.discordapp.com/attachments/829476971192778835/830215380097695784/mygithub.png" width="1800vw" height="100vh">
