@@ -19,3 +19,5 @@ Languages that i'm working/learning with:
 
 - 📰 Working in:
 [Discord](https://discord.gg/CBU4ZyD5) 
+
+#
