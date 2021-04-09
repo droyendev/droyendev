@@ -11,6 +11,8 @@ Languages that i'm working/learning with:
 <img src="" width="700vw" height="350vh">
 -->
 
+#
+
 - 📍 São Paulo, Brazil
 - 🔭 I’m currently working on freelance projects
 - 💬 Ask me about what you want to
@@ -20,4 +22,3 @@ Languages that i'm working/learning with:
 - 📰 Working in:
 [Discord](https://discord.gg/CBU4ZyD5) 
 
-#
