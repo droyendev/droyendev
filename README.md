@@ -12,3 +12,6 @@ Languages that i'm working/learning with:
 <!--
 <img src="" width="700vw" height="350vh">
 -->
+
+- São Paulo, Brazil
+- <link>discord.gg/lil</link>
