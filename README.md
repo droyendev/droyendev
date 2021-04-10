@@ -25,7 +25,7 @@ Languages and stuffs that i'm working/learning with:
 
 <img src="https://cdn.discordapp.com/attachments/829476971192778835/830216180034961418/SCRIPTS_FINALIzados.png" width="1800vw" height="100vh">
 
-- 🌮 Taco Farmer <b>Work 100%</b> [Private Script] 
+- 🌮 Taco Farmer <b>Work 100%</b> [ <b>Private Script</b> ] 
 
 #
 
