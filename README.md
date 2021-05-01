@@ -18,9 +18,6 @@ Languages and stuffs that i'm working/learning with:
 
 - 🌀 My Contact: <b>! vRP.droyen#1563</b>
 
-- 📰 Working in:
-[Alabama](https://discord.gg/CBU4ZyD5) 
-
 #
 
 <img src="https://cdn.discordapp.com/attachments/829476971192778835/830216180034961418/SCRIPTS_FINALIzados.png" width="1800vw" height="100vh">
