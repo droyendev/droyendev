@@ -8,7 +8,7 @@ My name is <b>Gabriel</b>, I always liked to program, study and work with it, no
 
 Languages and stuffs that i'm working/learning with:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">              <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="25vw" height="25vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">              <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="25vw" height="25vh">                    <img src="https://cdn.discordapp.com/attachments/770846775287742468/854775626195796018/14bc03b7b1c2c4e2656fd4c0a981cbbc-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-cpp-by-vexels.png" width="25vw" height="25vh">
 
 #
 
