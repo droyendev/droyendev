@@ -8,7 +8,7 @@ My name is <b>Gabriel</b>, I always liked to program, study and work with it, no
 
 Languages and stuffs that i'm working/learning with:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">   <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="25vw" height="25vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25vw" height="25vh">               <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25vw" height="25vh">   <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="25vw" height="25vh"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-2op53x%2F&psig=AOvVaw2qrpFSvy7jWG5pOTeYP12k&ust=1623951018916000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjU_JXXnPECFQAAAAAdAAAAABAJ" width="25vw" height="25vh">
 
 #
 
