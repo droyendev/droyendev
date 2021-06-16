@@ -19,15 +19,3 @@ Languages,frameworks,tools and stuffs that i'm working/learning with:
 - 🌀 My Contact: <b>droyen#1563</b>
 
 #
-
-<img src="https://cdn.discordapp.com/attachments/829476971192778835/830216180034961418/SCRIPTS_FINALIzados.png" width="1800vw" height="100vh">
-
-- 🌮 Taco Farmer <b>Work 100%</b> [ <b>Private Script</b> ] 
-- Limbo Verify [ <b>Public</b> ] 
-
-#
-
-<img src="https://cdn.discordapp.com/attachments/829476971192778835/830233427982417950/WORKINGAT.png" width="1800vw" height="100vh">
-
-- 🔭 Police Panel
-
