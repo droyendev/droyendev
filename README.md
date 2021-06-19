@@ -19,3 +19,8 @@ Languages,frameworks,tools and stuffs that i'm working/learning with:
 - 🌀 My Contact: <b>droyen#1563</b>
 
 #
+
+|   Esquerda   |  Centralizado  |    Direita    |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
