@@ -20,7 +20,7 @@ Languages,frameworks,tools and stuffs that i'm working/learning with:
 
 #
 
-|   Esquerda   |  Centralizado  |    Direita    |
+|   Linguagens,Frameworks, ferramentas e coisas que tenho conhecimento ou estudo   |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
