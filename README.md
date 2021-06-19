@@ -6,7 +6,7 @@
 
 My name is <b>Gabriel</b>, I always liked to program, study and work with it, nowadays, I do <b>Front-end</b> and <b>Back-end</b> projects, more focused on <b>FiveM</b>
 
-Languages,frameworks,tools and stuffs that i'm working/learning:
+<b>Languages,frameworks,tools and stuffs that i'm working/learning</b>:
 
 
 PHP | Lua | JavaScript | CSharp | Python | Node.js | TypeScript | React.js | HTML5 | CSS3 |
