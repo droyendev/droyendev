@@ -20,3 +20,19 @@ Languages,frameworks,tools and stuffs that i'm working/learning with:
 
 #
 
+<table border="1">    
+  <tr>
+    <th colspan="1">Cabeçalho da Tabela</th>
+  </tr>        
+  <tr>
+    <td><img src="https://cdn.discordapp.com/attachments/770846775287742468/855857603586162739/php.png" width="90vw" height="80vh"></td>
+    <td><img src="https://cdn.discordapp.com/attachments/770846775287742468/855857603586162739/php.png" width="90vw" height="80vh"></td>
+  </tr>
+  <tr>
+    <td>Linha 2 - Coluna 1</td>
+    <td>Linha 2 - Coluna 2</td>
+  </tr>
+  <tr>
+    <td colspan="1"><b>Rodapé da tabela</b></td>
+  </tr>
+</table>
