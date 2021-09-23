@@ -18,7 +18,7 @@ React.js | HTML5 | CSS3 |
 
 Unity 3D | Unreal Engine |
 --------- | --------- |
-<img src="https://cdn.discordapp.com/attachments/890289168700297271/890704415802138664/logo-unity-web.png" width="120vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/890289168700297271/890705202246746112/433-4337015_epic-games-unreal-engine-unreal-engine-logo-svg.png" width="120vw" height="70vh"> |
+<img src="https://cdn.discordapp.com/attachments/890289168700297271/890704415802138664/logo-unity-web.png" width="120vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/890289168700297271/890705202246746112/433-4337015_epic-games-unreal-engine-unreal-engine-logo-svg.png" width="80vw" height="50vh"> |
 #
 
 - 📍 São Paulo, Brazil
