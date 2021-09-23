@@ -18,7 +18,7 @@ React.js | HTML5 | CSS3 |
 
 Unity 3D |
 --------- |
-<img src="https://cdn.discordapp.com/attachments/890289168700297271/890703671971704832/logo-unity-web.png" width="72vw" height="70vh"> |
+<img src="https://cdn.discordapp.com/attachments/890289168700297271/890704415802138664/logo-unity-web.png" width="92vw" height="70vh"> |
 #
 
 - 📍 São Paulo, Brazil
