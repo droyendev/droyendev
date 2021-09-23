@@ -4,9 +4,7 @@
 
 <b>About me</b>:
 
-My name is <b>Gabriel</b>, I always liked to program, study and work with it, nowadays, I do <b>Front-end</b> and <b>Back-end</b> projects, more focused on <b>FiveM</b>
-
-<b>Languages,frameworks,tools and stuffs that i'm working/learning</b>:
+Meu nome é Gabriel, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo Game Dev
 
 
 PHP | Lua | JavaScript | CSharp | Python | Node.js | TypeScript |
