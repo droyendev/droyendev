@@ -4,7 +4,7 @@
 
 <b>About me</b>:
 
-Meu nome é Gabriel, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor de jogos
+Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor de jogos
 Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
 
