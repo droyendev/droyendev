@@ -5,8 +5,8 @@
 <b>About me</b>:
 
 Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
-Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
+Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
  Lua | JavaScript | CSharp | Node.js | TypeScript |
 | --------- | --------- | --------- | --------- | --------- |
@@ -22,10 +22,9 @@ Unity 3D |
 #
 
 - 📍 São Paulo, Brazil
-- 🔭 
-- 💬 Ask me about what you want to
+- 🔭 Trabalhando com projetos freelance
 
-- 🌀 My Contact: <b>droyen#1563</b>
+- 🌀 Meu contato: <b>droyen#0001</b>
 
 #
 
