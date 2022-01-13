@@ -21,10 +21,9 @@ React.js | TypeScript | Node.js |
 <img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://mpng.subpng.com/20180806/puu/kisspng-node-js-scalable-vector-graphics-javascript-clip-a-31-best-node-js-logo-5b67dacf9f8bc7.0306409615335328796535.jpg" width="70vw" height="70vh"> |
 
 
-- 📍 São Paulo, Brazil
-- 🔭 Trabalhando com projetos freelance
-
-- 🌀 Meu contato: <b>droyen#0001</b>
-
+- São Paulo, Brazil
+- Trabalhando com projetos freelance
+- Meu contato: <b>gabriel.chaves2004@hotmail.com</b>
+- Meu Discord: <b>droyen#0001</b>
 #
 
