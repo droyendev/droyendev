@@ -8,13 +8,17 @@ Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalh
 
 Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
- Lua | JavaScript | CSharp | Node.js | TypeScript |
-| --------- | --------- | --------- | --------- | --------- |
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/770846775287742468/854776314966704178/Csharp_Logo.png" width="70vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/770846775287742468/854776908340002856/68747470733a2f2f74686964752e6465762f696d616765732f4e6f64656a732e737667.png" width="70vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/770846775287742468/854777341338714142/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png" width="70vw" height="70vh"> |
+<h2>Stack para desenvolvimento de Sistemas (FiveM)</h2>
 
-React.js | HTML5 | CSS3 |
+ Lua | JavaScript | HTML5 | CSS3 |
+| --------- | --------- | --------- | --------- |
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> |
+
+<h2>Atualmente estudando</h2>
+
+React.js | TypeScript | Node.js |
 --------- | --------- | --------- |
-<img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> |
+<img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://w7.pngwing.com/pngs/558/166/png-transparent-node-js-javascript-react-express-js-linux-foundation-mongodb-icons-angle-text-rectangle.png" width="70vw" height="70vh"> |
 
 Unity 3D |
 --------- |
