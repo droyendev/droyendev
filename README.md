@@ -8,7 +8,7 @@ Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalh
 
 Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
-<h2>Stack para desenvolvimento de Sistemas (FiveM)</h2>
+<h2>Stack para desenvolvimento de Sistemas no FiveM</h2>
 
  Lua | JavaScript | HTML5 | CSS3 |
 | --------- | --------- | --------- | --------- |
