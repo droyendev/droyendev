@@ -2,7 +2,7 @@
 
 # 
 
-<b>About me</b>:
+<h4>Sobre mim</h4>
 
 Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
 
