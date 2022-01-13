@@ -6,8 +6,6 @@
 
 Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
 
-Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
-
 <h3>Stack para desenvolvimento de Sistemas no FiveM</h3>
 
  Lua | JavaScript | HTML5 | CSS3 |
@@ -21,8 +19,8 @@ React.js | TypeScript | Node.js |
 <img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="70vw" height="70vh"> |
 
 
+- Gabriel Chaves de Lima Coelho, 17 anos
 - São Paulo, Brazil
-- Trabalhando com projetos freelance
 - Meu contato: <b>gabriel.chaves2004@hotmail.com</b>
 - Meu Discord: <b>droyen#0001</b>
 #
