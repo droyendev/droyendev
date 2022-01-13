@@ -8,13 +8,13 @@ Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalh
 
 Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já utilizei ou pretendo aprender)
 
-<h2>Stack para desenvolvimento de Sistemas no FiveM</h2>
+<h3>Stack para desenvolvimento de Sistemas no FiveM</h3>
 
  Lua | JavaScript | HTML5 | CSS3 |
 | --------- | --------- | --------- | --------- |
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> |
 
-<h2>Atualmente estudando</h2>
+<h3>Atualmente estudando</h3>
 
 React.js | TypeScript | Node.js |
 --------- | --------- | --------- |
