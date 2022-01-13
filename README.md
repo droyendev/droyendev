@@ -18,7 +18,7 @@ Algumas ferramentas, linguagens de programação, frameworks (que utilizo/já ut
 
 React.js | TypeScript | Node.js |
 --------- | --------- | --------- |
-<img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png" width="70vw" height="70vh"> |
+<img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://png.pngitem.com/pimgs/s/168-1680234_nodejs-logo-svg-hd-png-download.png" width="70vw" height="70vh"> |
 
 
 - São Paulo, Brazil
