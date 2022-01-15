@@ -26,5 +26,5 @@ React.js | TypeScript | Node.js |
 - Meu Discord: <b>droyen#0001</b>
 #
 
-![droyendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![droyendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=droyendev&show_icons=true)
 
