@@ -20,7 +20,6 @@ Node.js |
 
 #
 
-- Gabriel Chaves de Lima Coelho, 17 anos
 - São Paulo, Brazil
 - Meu contato: <b>gabriel.chaves2004@hotmail.com</b>
 - Meu Discord: <b>droyen#0001</b>
