@@ -4,7 +4,7 @@
 
 <h3>Sobre mim</h3>
 
-Meu nome é <b>Gabriel Chaves</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
+Meu nome é <b>Gabriel</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
 
 <h3>Stack para desenvolvimento de Sistemas no FiveM</h3>
 
@@ -21,7 +21,6 @@ Node.js |
 #
 
 - São Paulo, Brazil
-- Meu contato: <b>gabriel.chaves2004@hotmail.com</b>
 - Meu Discord: <b>droyen#0001</b>
 #
 
