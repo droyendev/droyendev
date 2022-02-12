@@ -8,15 +8,9 @@ Meu nome é <b>Gabriel</b>, sempre gostei de programar, estudar e trabalhar com 
 
 <h3>Stack para desenvolvimento de Sistemas no FiveM</h3>
 
- Lua | HTML5 | CSS3 | REACT | TYPESCRIPT |
-| --------- | --------- | --------- | --------- | --------- |
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh">
-
-<h3>Atualmente estudando</h3>
-
-Node.js |
---------- |
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="70vw" height="70vh"> |
+ Lua | HTML5 | CSS3 | REACT | TYPESCRIPT | NODEJS |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://cdn.discordapp.com/attachments/770846775287742468/854777962339237928/2507930-middle.png" width="70vw" height="70vh"> | <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" width="70vw" height="70vh"> | <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="70vw" height="70vh">
 
 #
 
