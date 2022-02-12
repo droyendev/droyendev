@@ -6,7 +6,7 @@
 
 Meu nome é <b>Gabriel</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e Back-end, e estudo para ser um desenvolvedor fullstack
 
-<h3>Stack que trabalho atualmente</h3>
+<h3>Stack atual</h3>
 
  Lua | HTML5 | CSS3 | REACT | TYPESCRIPT | NODEJS |
 | --------- | --------- | --------- | --------- | --------- | --------- |
