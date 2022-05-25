@@ -15,5 +15,5 @@ Meu nome é <b>Gabriel</b>, sempre gostei de programar, estudar e trabalhar com 
 
 - São Paulo, Brasil
 - Meu Discord: <b>droyen#0001</b>
+![](https://komarev.com/ghpvc/?username=droyendev)
 #
-
